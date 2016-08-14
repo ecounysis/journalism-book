@@ -1,0 +1,47 @@
+#Journalism Essentials
+
+This collection of guides explains the basic principles and elements of good journalism.
+
+Many of these guides are largely based on the research and teachings of the Committee of Concerned Journalists — a consortium of reporters, editors, producers, publishers, owners and academics that for 10 years facilitated a discussion among thousands of journalists about what they did, how they did it, and why it was important. The author, Walter Dean, was CCJ training director and API Executive Director Tom Rosenstiel formerly co-chaired the committee.
+
+##What is journalism?
+
+Journalism is the activity of gathering, assessing, creating, and presenting news and information. It is also the product of these activities.
+
+Journalism can be distinguished from other activities and products by certain identifiable characteristics and practices. These elements not only separate journalism from other forms of communication, they are what make it indispensable to democratic societies. History reveals that the more democratic a society, the more news and information it tends to have.
+
+###Principles of the craft
++ What makes journalism different than other forms of communication?
++ What is the purpose of journalism?
++ The elements of journalism
++ What does a journalist do?
+
+
+###Theories of journalism and the public
++ The journalist as a “committed observer”
++ The theory of the interlocking public
+
+
+
+
+##Bias and objectivity
+Journalism attempts to be fair and accurate. It does this through objective methods and managing bias. These guides help you understand and navigate those processes.
++ The lost meaning of objectivity
++ Understanding bias
++ Tools to manage bias
+
+
+
+##Verification and accuracy
+
+A journalist’s first job is to “get it right.” But how? These guides help you understand how to think about accuracy and practice verification.
+
++ Journalism as a discipline of verification
++ The Hierarchy of Accuracy
++ The Hierarchy of Information and concentric circles of sources
++ Verification case study: The Protess Method
+
+
+[Journalism Essentials](https://www.americanpressinstitute.org/journalism-essentials/)
+
+*This guide, like many of the others in API’s Journalism Essentials section, is largely based on the research and teachings of the Committee of Concerned Journalists — a consortium of reporters, editors, producers, publishers, owners and academics that for 10 years facilitated a discussion among thousands of journalists about what they did, how they did it, and why it was important. The author, Walter Dean, was CCJ training director and API Executive Director Tom Rosenstiel formerly co-chaired the committee.*

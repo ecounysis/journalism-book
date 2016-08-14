@@ -1,0 +1,232 @@
+#What is journalism?
+
+Journalism is the activity of gathering, assessing, creating, and presenting news and information. It is also the product of these activities.
+
+Journalism can be distinguished from other activities and products by certain identifiable characteristics and practices. These elements not only separate journalism from other forms of communication, they are what make it indispensable to democratic societies. History reveals that the more democratic a society, the more news and information it tends to have.
+
+
+##What makes journalism different than other forms of communication?
+
+The world, and especially the online world, is awash in communication.
+
+The vast majority of this communication, however, is not news and especially not journalism. Almost 70 percent of email traffic is spam, according to web security company Symantec. In 2012, there were an average of 175 million tweets each day. But almost all – 99% — consisted of “pointless babble,” according to researchers at Carnegie Mellon University.
+
+While journalism occupies a much smaller space than the talk, entertainment, opinion, assertion, advertising and propaganda that dominate the media universe, it is nevertheless perceived as being more valuable than most of the “stuff out there.”
+
+That value flows from its purpose, to provide people with verified information they can use to make better decisions, and its practices, the most important of which is a systematic process – a discipline of verification – that journalists use to find not just the facts, but also the “truth about the facts.”
+
+
+
+##What is the purpose of journalism?
+
+“The purpose of journalism,” write Bill Kovach and Tom Rosenstiel in The Elements of Journalism, “is not defined by technology, nor by journalists or the techniques they employ.” Rather, “the principles and purpose of journalism are defined by something more basic: the function news plays in the lives of people.”
+
+News is that part of communication that keeps us informed of the changing events, issues, and characters in the world outside. Though it may be interesting or even entertaining, the foremost value of news is as a utility to empower the informed.
+
+The purpose of journalism is thus to provide citizens with the information they need to make the best possible decisions about their lives, their communities, their societies, and their governments.
+
++This guide, like many of the others in API’s Journalism Essentials section, is largely based on the research and teachings of the Committee of Concerned Journalists — a consortium of reporters, editors, producers, publishers, owners and academics that for 10 years facilitated a discussion among thousands of journalists about what they did, how they did it, and why it was important. The author, Walter Dean, was CCJ training director and API Executive Director Tom Rosenstiel formerly co-chaired the committee.*
+
+
+
+
+##The elements of journalism
+
+In their book [The Elements of Journalism](http://www.amazon.com/The-Elements-Journalism-Newspeople-Completely/dp/0307346706), Bill Kovach and Tom Rosenstiel identify the essential principles and practices of journalism.
+
+Here are 10 elements common to good journalism, drawn from the book.
+
+
+###Journalism’s first obligation is to the truth
+
+Good decision-making depends on people having reliable, accurate facts put in a meaningful context. Journalism does not pursue truth in an absolute or philosophical sense, but in a capacity that is more down to earth.
+
+“All truths – even the laws of science – are subject to revision, but we operate by them in the meantime because they are necessary and they work,” Kovach and Rosenstiel write in the book. Journalism, they continue, thus seeks “a practical and functional form of truth.” It is not the truth in the absolute or philosophical or scientific sense but rather a pursuit of “the truths by which we can operate on a day-to-day basis.”
+
+This “journalistic truth” is a process that begins with the professional discipline of assembling and verifying facts. Then journalists try to convey a fair and reliable account of their meaning, subject to further investigation.
+
+Journalists should be as transparent as possible about sources and methods so audiences can make their own assessment of the information. Even in a world of expanding voices, “getting it right” is the foundation upon which everything else is built – context, interpretation, comment, criticism, analysis and debate. The larger truth, over time, emerges from this forum.
+
+As citizens encounter an ever-greater flow of data, they have more need – not less – for suppliers of information dedicated to finding and verifying the news and putting it in context.
+
+
+###Its first loyalty is to citizens
+
+The publisher of journalism – whether a media corporation answering to advertisers and shareholders or a blogger with his own personal beliefs and priorities — must show an ultimate allegiance to citizens. They must strive to put the public interest – and the truth – above their own self-interest or assumptions.
+
+A commitment to citizens is an implied covenant with the audience and a foundation of the journalistic business model – journalism provided “without fear or favor” is perceived to be more valuable than content from other information sources.
+
+Commitment to citizens also means journalism should seek to present a representative picture of constituent groups in society. Ignoring certain citizens has the effect of disenfranchising them.
+
+The theory underlying the modern news industry has been the belief that credibility builds a broad and loyal audience and that economic success follows in turn. In that regard, the business people in a news organization also must nurture – not exploit – their allegiance to the audience ahead of other considerations.
+
+Technology may change but trust – when earned and nurtured – will endure.
+
+
+
+###Its essence is a discipline of verification
+
+Journalists rely on a professional discipline for verifying information.
+
+While there is no standardized code as such, every journalist uses certain methods to assess and test information to “get it right.”
+
+Being impartial or neutral is not a core principal of journalism. Because the journalist must make decisions, he or she is not and cannot be objective. But journalistic methods are objective.
+
+When the concept of objectivity originally evolved, it did not imply that journalists were free of bias. It called, rather, for a consistent method of testing information – a transparent approach to evidence – precisely so that personal and cultural biases would not undermine the accuracy of the work. The method is objective, not the journalist.
+
+Seeking out multiple witnesses, disclosing as much as possible about sources, or asking various sides for comment, all signal such standards. This discipline of verification is what separates journalism from other forms of communication such as propaganda, advertising, fiction, or entertainment.
+
+
+
+###Its practitioners must maintain an independence from those they cover
+
+Independence is a cornerstone of reliability.
+
+On one level, it means not becoming seduced by sources, intimidated by power, or compromised by self-interest. On a deeper level it speaks to an independence of spirit and an open-mindedness and intellectual curiosity that helps the journalist see beyond his or her own class or economic status, race, ethnicity, religion, gender or ego.
+
+Journalistic independence, write Kovach and Rosenstiel, is not neutrality. While editorialists and commentators are not neutral, the source of their credibility is still their accuracy, intellectual fairness and ability to inform – not their devotion to a certain group or outcome. In our independence, however, journalists must avoid straying into arrogance, elitism, isolation or nihilism.
+
+
+
+###It must serve as an independent monitor of power
+
+Journalism has an unusual capacity to serve as watchdog over those whose power and position most affect citizens. It may also offer voice to the voiceless. Being an independent monitor of power means “watching over the powerful few in society on behalf of the many to guard against tyranny,” Kovach and Rosenstiel write.
+
+> The earliest journalists firmly established as a core principle their responsibility to examine unseen corners of society.
+
+The watchdog role is often misunderstood, even by journalists, to mean “afflict the comfortable.” While upsetting the applecart may certainly be a result of watchdog journalism, the concept as introduced in the mid-1600s was far less combative. Rather, it sought to redefine the role of the journalist from a passive stenographer to more a curious observer who would “search out and discover the news.”
+
+The watchdog role also means more than simply monitoring government. “The earliest journalists,” write Kovach and Rosenstiel, “firmly established as a core principle their responsibility to examine unseen corners of society. The world they chronicled captured the imagination of a largely uninformed society, creating an immediate and enthusiastic popular following.”
+
+Finally, the purpose of the watchdog extends beyond simply making the management and execution of power transparent, to making known and understood the effects of that power. This includes reporting on successes as well as failures.
+
+Journalists have an obligation to protect this watchdog freedom by not demeaning it in frivolous use or exploiting it for commercial gain.
+
+
+
+###It must provide a forum for public criticism and compromise
+
+The news media are common carriers of public discussion, and this responsibility forms a basis for special privileges that news and information providers receive from democratic societies.
+
+These privileges can involve subsidies for distribution or research and development (lower postal rates for print, use of public spectrum by broadcasters, development and management of the Internet) to laws protecting content and free speech (copyright, libel, and shield laws).
+
+These privileges, however, are not pre-ordained or perpetual. Rather, they are conferred because of the need for an abundant supply of information. They are predicated on the assumption that journalism – because of its principles and practices – will supply a steady stream of higher quality content that citizens and government will use to make better decisions.
+
+Traditionally, this covenant has been between news organizations and government. The new forms of digital media, however, place a responsibility on everyone who “publishes” content – whether for profit or for personal satisfaction – in the public domain.
+
+The raw material cast into the marketplace of ideas sustains civic dialogue and serves society best when it consists of verified information rather than just prejudice and supposition.
+
+Journalism should also attempt to fairly represent varied viewpoints and interests in society and to place them in context rather than highlight only the conflicting fringes of debate. Accuracy and truthfulness also require that the public discussion not neglect points of common ground or instances where problems are not just identified but also solved.
+
+Journalism, then, is more than providing an outlet for discussion or adding one’s voice to the conversation. Journalism carries with it a responsibility to improve the quality of debate by providing verified information and intellectual rigor. A forum without regard for facts fails to inform and degrades rather than improves the quality and effectiveness of citizen decision-making.
+
+
+
+###It must strive to keep the significant interesting and relevant
+
+Journalism is storytelling with a purpose. It should do more than gather an audience or catalogue the important. It must balance what readers know they want with what they cannot anticipate but need.
+
+Writing coaches Roy Peter Clark and Chip Scanlan describe effective newswriting as the intersection of civic clarity, the information citizens need to function, and literary grace, which is the reporter’s storytelling skill set. In other words, part of the journalist’s responsibility is providing information in such a way people will be inclined to listen. Journalists must thus strive to make the significant interesting and relevant.
+
+Quality is measured both by how much a work engages its audience and enlightens it. This means journalists must continually ask what information has the most value to citizens and in what form people are most likely to assimilate it. While journalism should reach beyond such topics as government and public safety, journalism overwhelmed by trivia and false significance trivializes civic dialogue and ultimately public policy.
+
+
+
+###It must keep the news comprehensive and proportional
+
+Journalism is our modern cartography. It creates a map for citizens to navigate society.
+
+As with any map, its value depends on a completeness and proportionality in which the significant is given greater visibility than the trivial.
+
+Keeping news in proportion is a cornerstone of truthfulness. Inflating events for sensation, neglecting others, stereotyping, or being disproportionately negative all make a less reliable map. The most comprehensive maps include all affected communities, not just those with attractive demographics. The most complete stories take into account diverse backgrounds and perspectives.
+
+Though proportion and comprehensiveness are subjective, their ambiguity does not lesson their significance.
+
+
+
+###Its practitioners must be allowed to exercise their personal conscience
+
+Doing journalism, whether as a professional writing for a news organization or as an online contributor in the public space, involves one’s moral compass and demands a personal sense of ethics and responsibility.
+
+Because “news” is important, those who provide news have a responsibility to voice their personal conscience out loud and allow others to do so as well. They must be willing to question their own work and to differ with the work of others if fairness and accuracy demand they do so.
+
+News organizations do well to nurture this independence by encouraging individuals to speak their minds. Conversation and debate stimulate the intellectual diversity of minds and voices necessary to understand and accurately cover an increasingly diverse society. Having a diverse newsroom does little if those different voices are not spoken or heard.
+
+It’s also a matter of self-interest. Employees encouraged to raise their hands may “save the boss from himself” or protect the news organization’s reputation by pointing out errors, flagging important omissions, questioning misguided assumptions, or even revealing wrongdoing.
+
+Having a sense of ethics is perhaps most important for the individual journalist or online contributor.
+
+Increasingly, those who produce “the news” work in isolation, whether from a newsroom cubicle, the scene of a story, or their home office. They may file directly to the public without the safety net of editing, a second set of eyes, or the collaboration of others. While crowdsourcing by the audience may catch and correct errors or misinformation, the reputation of the author and the quality of public dialogue are nevertheless damaged.
+
+
+
+###Citizens, too, have rights and responsibilities when it comes to the news
+
+The average person now, more than ever, works like a journalist.
+
+Writing a blog entry, commenting on a social media site, sending a tweet, or “liking” a picture or post, likely involves a shorthand version of the journalistic process. One comes across information, decides whether or not it’s believable, assesses its strength and weaknesses, determines if it has value to others, decides what to ignore and what to pass on, chooses the best way to share it, and then hits the “send” button.
+
+Though this process may take only a few moments, it’s essentially what reporters do.
+
+Two things, however, separate this journalistic-like process from an end product that is “journalism.” The first is motive and intent. The purpose of journalism is to give people the information they need to make better decisions about their lives and society. The second difference is that journalism involves the conscious, systematic application of a discipline of verification to produce a “functional truth,” as opposed to something that is merely interesting or informative. Yet while the process is critical, it’s the end product – the “story” – by which journalism is ultimately judged.
+
+Today, when the world is awash in information and news is available any time everywhere, a new relationship is being formed between the suppliers of journalism and the people who consume it.
+
+The new journalist is no longer a gatekeeper who decides what the public should and should not know. The individual is now his or her own circulation manager and editor. To be relevant, journalists must now verify information the consumer already has or is likely to find and then help them make sense of what it means and how they might use it.
+
+Thus, write Kovach and Rosenstiel, “The first task of the new journalist/sense maker is to verify what information is reliable and then order it so people can grasp it efficiently.” A part of this new journalistic responsibility is “to provide citizens with the tools they need to extract knowledge for themselves from the undifferentiated flood or rumor, propaganda, gossip, fact, assertion, and allegation the communications system now produces.”
+
+
+
+##What does a journalist do?
+
+Asking who is a journalist is the wrong question, because journalism can be produced by anyone.
+
+At the same time, merely engaging in journalistic-like activity – snapping a cell-phone picture at the scene of a fire or creating a blog site for news and comment – does not by itself produce a journalistic product. Though it can and sometimes does, there is a distinction between the act of journalism and the end result.
+
+The journalist places the public good above all else and uses certain methods – the foundation of which is a discipline of verification – to gather and assess what he or she finds.
+
+
+##The journalist as a ‘committed observer’
+
+Gil Thelen, the former publisher and president of The Tampa Tribune, believes the journalist has a very specific role in society. He calls it the “committed observer.”
+
+What he means by that, Thelen explains, is that the journalist is not removed from community, though at times may stand apart from others so as to view things from a different perspective.
+
+Rather, says Thelen, journalists are “interdependent” with the needs of their fellow citizens. If there is a key issue in town that needs resolution and is being explored by local institutions, “we have a commitment to reporting on this process over the long term, as an observer.” The journalist helps resolve the issue by being a responsible reporter who supplies background, verifies facts, and explains the issues involved.
+
+Thelen’s ideas are echoed in the words of other journalists as well, who talk about the press creating a common language, a common understanding, or being part of the glue that defines and adheres a community together.
+
+The notion of the committed observer also provides language to clarify the journalistic role when reporters may be confused about how patriotic versus independent they should be, and citizens are often either confused or angered by the coverage of controversial issues or the disclosure of secrets.
+
+This confusion, note Tom Rosenstiel and Bill Kovach in The Elements of Journalism, doesn’t serve anyone well.
+
+Other professions are much clearer about their role and citizens as a consequence are much clearer about the need for their doing controversial things.
+
+People understand and accept, for instance, that doctors serve a Hippocratic Oath that requires they try to save people they may hate, whether the enemy soldier in war or the wounded gunman who just shot a police officer. Or that lawyers are required to provide a zealous defense for even the worst people in society.
+
+Journalists need to be equally clear about their role, both to themselves and to the public. A journalist is not aloof from society. They are citizens. Even patriots. Journalists express their commitment and duty by performing the prescribed role of observer to provide their fellow citizens with the information they need to make judgments and decisions.
+
+Even in times of war or national crisis, that means not only providing people with information they might find scary, but information the government or other powerful institutions do not want revealed.
+
+
+##The theory of the interlocking public
+
+The splintering of mass media audiences and the migration of information consumers to tens of thousands of niche web sites is further evidence that everyone is interested, and expert, in something.
+
+The diversity and magnitude of the public, in fact, is its strength. A mix of publics is usually much wiser than a public comprised of just the elite or one segment of special interest.
+
+The wisdom of decision-making by an interlocking public is embedded in the notion that government “by the people” means citizens have the duty to keep themselves informed.
+
+Moreover, says historian Paul Starr in “The Creation of the Media, Political Origins of Modern Communication,” government played a central role in equipping citizens with news and information as well as the tools, the ability to read and write, so they could consume it.
+
+Early Congresses passed laws making education and literacy priorities that required the establishment of public schools. Women, who could then not vote, were included in part so they could educate their children. Education also emphasized “useful knowledge,” which included current events.
+
+The distribution of news, meanwhile, needed a way to keep up with citizen pioneers as they moved westward from population centers on the East Coast, and Congress addressed the problem when it created the Post Office. Rejecting the European model in which every local post office was required to generate enough revenue to pay for itself, it was decided that in the U.S., every county seat should have a post office and that the mailing of newspapers and books should be subsidized with lower postal rates.
+
+Starr notes that by 1830, the Post Office was delivering one-fourth of all newspapers and 2 million more newspapers than letters. A century later, Congress allowed commercial broadcasters to use the public airwaves to distribute their programming, a part of which was news and information.
+
+This vision of governance is central to the notion that journalism should also be pluralistic. Collectively, it serves a broad and diverse audience that is both complex and dynamic but whose individual members must be able to sort out the truth in order to make personal decisions about their lives and collective decisions about government and society.
+
+Journalism helps the interlocking public make decisions about the truth.
+

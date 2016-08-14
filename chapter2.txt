@@ -1,0 +1,138 @@
+#Bias and objectivity
+
+Journalism attempts to be fair and accurate. It does this through objective methods and managing bias.
+
+The guides in this section help you understand and navigate those processe
+
+
+##The lost meaning of ‘objectivity’
+
+One of the great confusions about journalism, write Bill Kovach and Tom Rosenstiel in The Elements of Journalism, is the concept of objectivity.
+
+When the concept originally evolved, it was not meant to imply that journalists were free of bias. Quite the contrary.
+
+The term began to appear as part of journalism after the turn of the 20th century, particularly in the 1920s, out of a growing recognition that journalists were full of bias, often unconsciously. Objectivity called for journalists to develop a consistent method of testing information – a transparent approach to evidence – precisely so that personal and cultural biases would not undermine the accuracy of their work.
+
+In the latter part of the 19th century, journalists talked about something called “realism” rather than objectivity. This was the idea that if reporters simply dug out the facts and ordered them together, truth would reveal itself rather naturally.
+
+> Objectivity called for journalists to develop a consistent method of testing information – a transparent approach to evidence
+
+Realism emerged at a time when journalism was separating from political party affiliations and becoming more accurate. It coincided with the invention of what journalists call the inverted pyramid, in which a journalist lines the facts up from the most important to the least important, thinking it helps audiences understand things naturally.
+
+At the beginning of the 20th century, however, some journalists began to worry about the naïveté of realism. In part, reporters and editors were becoming more aware of the rise of propaganda and the role of press agents.
+
+At a time when Freud was developing his theories of the unconscious and painters like Picasso were experimenting with Cubism, journalists were also developing a greater recognition of human subjectivity.
+
+> The method is objective, not the journalist.
+
+In 1919, Walter Lippmann and Charles Merz, an associate editor for the New York World, wrote an influential and scathing account of how cultural blinders had distorted the New York Times coverage of the Russian Revolution. “In the large, the news about Russia is a case of seeing not what was, but what men wished to see,” they wrote. Lippmann and others began to look for ways for the individual journalist “to remain clear and free of his irrational, his unexamined, his unacknowledged prejudgments in observing, understanding and presenting the news.”
+
+Journalism, Lippmann declared, was being practiced by “untrained accidental witnesses.” Good intentions, or what some might call “honest efforts” by journalists, were not enough. Faith in the rugged individualism of the tough reporter, what Lippmann called the “cynicism of the trade,” was also not enough. Nor were some of the new innovations of the times, like bylines, or columnists.
+
+The solution, Lippmann argued, was for journalists to acquire more of “the scientific spirit … There is but one kind of unity possible in a world as diverse as ours. It is unity of method, rather than aim; the unity of disciplined experiment.” Lippmann meant by this that journalism should aspire to “a common intellectual method and a common area of valid fact.”
+
+To begin, Lippmann thought, the fledgling field of journalist education should be transformed from “trade schools designed to fit men for higher salaries in the existing structure.” Instead, the field should make its cornerstone the study of evidence and verification.
+
+Although this was an era of faith in science, Lippmann had few illusions. “It does not matter that the news is not susceptible to mathematical statement. In fact, just because news is complex and slippery, good reporting requires the exercise of the highest scientific virtues.”
+
+In the original concept, in other words, the method is objective, not the journalist. The key was in the discipline of the craft, not the aim.
+
+This point has some important implications.
+
+One is that the impartial voice employed by many news organizations – that familiar, supposedly neutral style of newswriting – is not a fundamental principle of journalism. Rather, it is an often helpful device news organizations use to highlight that they are trying to produce something obtained by objective methods.
+
+The second implication is that this neutral voice, without a discipline of verification, creates a veneer covering something hollow. Journalists who select sources to express what is really their own point of view, and then use the neutral voice to make it seem objective, are engaged in a form of deception. This damages the credibility of the craft by making it seem unprincipled, dishonest, and biased.
+
+> The impartial voice employed by many news organizations – that familiar, supposedly neutral style of newswriting – is not a fundamental principle of journalism.
+
+Reporters have gone on to refine the concept Lippmann had in mind, but usually only privately, and in the name of technique or reporting routines rather than journalism’s larger purpose. The notion of an objective method of reporting exists in pieces, handed down by word of mouth from reporter to reporter.
+
+Developmental psychologist William Damon at Stanford, for instance, has identified various “strategies” journalists have developed to verify reporting. Damon asked his interviewees where they learned these concepts. Overwhelmingly the answer was: by trial and error and on my own or from a friend. Rarely did journalists report learning them in journalism school or from their editors.
+
+Many useful books have been written. IRE (Investigative Reporters and Editors) for instance, has tried to develop a methodology for how to use public records, read documents, and produce Freedom of Information Act requests.
+
+By and large, however, these informal strategies have not been pulled together into the widely understood discipline that Lippmann and others imagined. There is nothing approaching standard rules of evidence, as in the law, or an agreed-upon method of observation, as in the conduct of scientific experiments.
+
+Nor have older conventions of verification been expanded to match the new forms of journalism. Although journalism may have developed various techniques and conventions for determining facts, it has done less to develop a system for testing the reliability of journalistic interpretation.
+
+
+##Understanding bias
+
+For a time, “bias” was the term of choice to describe anything people hated about journalism, whether the power and influence of corporate news organizations to the choices reporters made in writing individual stories. In 2001, in fact, a book about media unfairness entitled “Bias” was number one on the New York Times bestseller list.
+
+In recent years the public seems to have adopted a more nuanced view of bias.  Perhaps this is because many critics have found their voice online – where studies confirm that half the blogs [contain just the author’s opinion](http://stateofthemedia.org/2009/special-reports-summary-essay/citizen-based-media/) – or that one-sidedness has become a [successful business model](http://www.journalism.org/analysis_report/coverage_candidates_media_sector_and_cable_outlet), as Fox News Channel and MSNBC have demonstrated.
+
+Journalists, nevertheless, often feel compelled to try to prove that they are “unbiased.”
+
+But what if they took a different approach? What if journalists acknowledged that bias does exist, that it is built into the choices they make when deciding what to leave in and what to leave out? That bias is embedded in the culture and language of the society on which the journalist reports? And that “news judgment” does reflect the journalist’s background as well as the news organization’s mission and business model?
+
+What if the journalist said, in other words, that bias may not always be a bad thing? That it may serve to create narrative texture or make a story understandable.
+
+> What if journalists acknowledged that bias does exist, that it is built into the choices they make when deciding what to leave in and what to leave out?
+
+One can even argue that draining a story of all bias can drain it of its humanity, its lifeblood. In the biases of the community one can also find conflicting passions that bring stories to life.
+
+A bias, moreover, can be the foundation for investigative journalism. It may prompt the news organization to right a wrong and take up an unpopular cause.
+
+Thus, the job of journalists is not to stamp out bias. Rather, the journalist should learn how to manage it.
+
+And to do that, the journalist needs to become conscious of the biases at play in a given story and decide when they are appropriate and may be useful, and when they are inappropriate.
+
+Biases that journalists and their audiences probably consider appropriate are such things as a belief in representative government, open government, and social equality. Yet an unquestioning adherence to policies based on these principles might not always be the best thing. Is democracy, for example, the best form of government for all people in all places at all times? Should government not be allowed to have any secrets? How far should government go to promote social equality?
+
+There are also biases that cut both ways.
+
++ *Being a crusader* against social ills is generally good, but you can lose perspective.
++ *A bias toward official voices* is necessary, but if it leaves out other voices it’s a problem.
++ *Being sensitive to sources* is part of listening well but it can also mean that the journalist is writing for them rather than the public.
++ *Looking for the extraordinary,* the man-bites-dog story, can also lead a journalist to distort what is really going on or is important.
++ *Subject:* There is a bias built into the way journalists pick and cover stories. Certain subjects are routinely covered or ignored. Do some subjects or communities only appear when a crime occurs or when there is a special event or parade?
++ *Boss:* What stories are being done or overdone in order to please the boss?
++ *Production:* What stories are automatic because they are easy to do, but may be trivial or incremental? Or how often does a journalist call certain sources because they know the source will answer their phone or offer a perfect quote?
++ *Against companies:* Turning skepticism into negativity and the assumption that every big and successful institution must be doing something wrong.
+
+There are also more subtle biases, but ones every journalist will recognize.
+
++ *Market-oriented bias:* This can be a pressure to produce stories that target market segments with desirable demographics for advertisers.
++ *Covering the bases:* This means doing the stories everyone else is going to have in order to cover the bases (and your rear end).
++ *Balance* is a long-honored notion, and can be a useful technique for a story that you may not know much about. But how many sides does it take to balance a story? Is a “balanced” story fair? Is it true to the facts? Should you still give equal space or weight to all sides?
++ *Political bias* is something journalists hear a lot about from the public, but inside the newsroom it’s less a topic of conversation. Journalists don’t ask and don’t tell. They don’t know each other’s politics. So therefore it isn’t a problem. But is that enough? Does not talking about something mean it isn’t a problem?
+
+There’s another sort of bias worth mentioning, too.
+
+It used to be called “pack journalism.” It has also been called “group think.” It is the story line that the press corps en masse is telling or repeating. A modern term for it is the master narrative. Bush was a strong leader. Or he was dumb.
+
+These master narratives can become a kind of trap or rut. The journalist picks facts that illustrate a _master narrative_, or current stereotype, and ignores other facts.
+
+In the end, making choices requires journalists to think. A journalist needs to be conscious of biases so he or she can know what biases make it into stories.
+
+
+##Tools to manage bias
+
+###Examine your own biases
+
+Paul Taylor, former chief political correspondent at the Philadelphia Inquirer and Washington Post, says that if you are covering a political campaign or any other ongoing, long-term story in which you could find yourself gravitating toward one side or one person:
+
++ Periodically examine yourself for bias building up — understanding what your views are and why you have them is the best way to keep them under control.
++ Who do you personally like or dislike? Why?
++ How might that be coloring your judgment?
++ Read through some of your stories and be self-critical.
+
+###Before and after
+
+One way Paul Taylor used to test this is a “before and after” tool.
+
+When assigned a story that involves some substantial reporting, Taylor used to write the lead at the outset, before he had done any reporting. Then he would test that lead against the one he had written for real at the end of the reporting.
+
+If the final lead was too similar to the one he wrote before doing the reporting, he would know he hadn’t learned very much. That’s a sign the reporter may have only pursued information that confirms his biases, rather than overcoming preconceptions to find new information.
+
+###Ask yourself
+
+Another test is to ask yourself at the beginning of the reporting what biases are at play in the story. Identify them.
+
++ Do any of them help you tell the story?
++ Are there any you believe you should not deal with?
++ Is there anything you should do in presenting any of these biases that will help the reader understand them?
++ What bias do I have going in that I should be wary of?
+
+And ask one other question: What are my points of ignorance going in that I need to note?
